@@ -1,0 +1,1 @@
+print('hello datascience 반가워요')
